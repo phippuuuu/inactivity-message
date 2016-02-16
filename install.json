@@ -1,0 +1,20 @@
+{
+    "resources": {
+        "body": [
+            {
+                "type": "script",
+                "src": "script.js"
+            }
+        ]
+    },
+    "options": {
+        "properties": {
+            "message": {
+                "order": 1,
+                "title": "Message",
+                "type": "string",
+                "default": "Hey, come back!"
+            }
+        }
+    }
+}
